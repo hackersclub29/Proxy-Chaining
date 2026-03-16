@@ -131,7 +131,7 @@ dataclasses
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/proxy-manager.git
+git clone https://github.com/hackersclub29/proxy-manager.git
 ```
 
 Enter the directory:
