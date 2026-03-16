@@ -131,13 +131,13 @@ dataclasses
 Clone the repository:
 
 ```bash
-git clone https://github.com/hackersclub29/proxy-manager.git
+git clone https://github.com/hackersclub29/Proxy-Chaining.git
 ```
 
 Enter the directory:
 
 ```bash
-cd proxy-manager
+cd Proxy-Chaining
 ```
 
 Run the server:
